@@ -432,12 +432,14 @@
         async function loadData() {
             try {
                 const [core, spatial, roots, collocations, recognition] = await Promise.all([
-                    fetch('data/core_words.json').then(r => r.json()),
-                    fetch('data/spatial_words.json').then(r => r.json()),
-                    fetch('data/root_families.json').then(r => r.json()),
-                    fetch('data/collocations.json').then(r => r.json()),
-                    fetch('data/recognition_words.json').then(r => r.json())
-                ]);
+    fetch('datac/core_words.json').then(r => r.json()),
+    fetch('datac/spatial_words.json').then(r => r.json()),
+    fetch('datac/root_families.json').then(r => r.json()),
+    fetch('datac/collocations.json').then(r => r.json()),
+    fetch('datac/recognition_words.json').then(r => r.json())
+]);
+
+    
                 
                 allWords.A = core;
                 allWords.S = spatial;
