@@ -1,0 +1,194 @@
+[
+  {
+    "id": "maintain",
+    "word": "maintain",
+    "phonetic": "/meɪnˈteɪn/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "持续施加力量，防止原有状态改变或消失",
+    "core_emoji": "🤲⚖️",
+    "scenes": [
+      {"emoji": "⚖️", "phrase": "maintain balance", "note": "天平两端保持水平｜保持平衡"},
+      {"emoji": "🚗", "phrase": "maintain a car", "note": "定期保养防止损坏｜维护汽车"},
+      {"emoji": "💬", "phrase": "maintain silence", "note": "持续保持安静状态｜保持沉默"},
+      {"emoji": "📈", "phrase": "maintain standards", "note": "不让水平下降｜维持标准"}
+    ],
+    "collocations": ["maintain public health", "maintain law and order", "maintain close contact"],
+    "chinese": "保持；维持；维护；坚持认为",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "sustain",
+    "word": "sustain",
+    "phonetic": "/səˈsteɪn/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "从下方支撑住，承受重量或压力而不倒下",
+    "core_emoji": "🏋️⬆️",
+    "scenes": [
+      {"emoji": "🌳", "phrase": "sustain life", "note": "支撑生命继续存在｜维持生命"},
+      {"emoji": "💼", "phrase": "sustain economic growth", "note": "支撑经济持续增长｜维持经济增长"},
+      {"emoji": "🤕", "phrase": "sustain injuries", "note": "身体承受伤害｜遭受伤害"},
+      {"emoji": "🎵", "phrase": "sustain a note", "note": "声音持续不断｜延长音符"}
+    ],
+    "collocations": ["sustain economic development", "sustain environmental damage"],
+    "chinese": "维持；支撑；承受；遭受",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "retain",
+    "word": "retain",
+    "phonetic": "/rɪˈteɪn/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "紧紧抓住不让离开，保留在内部",
+    "core_emoji": "✊🔒",
+    "scenes": [
+      {"emoji": "💧", "phrase": "retain water", "note": "水分被锁在体内｜保持水分"},
+      {"emoji": "🧠", "phrase": "retain information", "note": "信息留在记忆中｜记住信息"},
+      {"emoji": "👥", "phrase": "retain employees", "note": "员工留在公司不离开｜留住员工"},
+      {"emoji": "🏠", "phrase": "retain heat", "note": "热量被保留在内部｜保温"}
+    ],
+    "collocations": ["retain control", "retain independence"],
+    "chinese": "保持；保留；留住；记住",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "preserve",
+    "word": "preserve",
+    "phonetic": "/prɪˈzɜːv/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "采取措施防止变质或损坏，保持原样",
+    "core_emoji": "🛡️🥫",
+    "scenes": [
+      {"emoji": "🥫", "phrase": "preserve food", "note": "防止食物变质｜保存食物"},
+      {"emoji": "🏛️", "phrase": "preserve historic buildings", "note": "保护古建筑不被破坏｜保护历史建筑"},
+      {"emoji": "🌲", "phrase": "preserve forests", "note": "保护森林不被砍伐｜保护森林"},
+      {"emoji": "🎭", "phrase": "preserve traditions", "note": "让传统继续存在｜保护传统"}
+    ],
+    "collocations": ["preserve the environment", "preserve cultural heritage"],
+    "chinese": "保护；保存；维护；腌制",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "conserve",
+    "word": "conserve",
+    "phonetic": "/kənˈsɜːv/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "谨慎使用，防止浪费，让资源持续更久",
+    "core_emoji": "💧🔋",
+    "scenes": [
+      {"emoji": "💧", "phrase": "conserve water", "note": "节约用水不浪费｜节约用水"},
+      {"emoji": "⚡", "phrase": "conserve energy", "note": "节省能源消耗｜节约能源"},
+      {"emoji": "🌿", "phrase": "conserve wildlife", "note": "保护野生动物不灭绝｜保护野生动物"},
+      {"emoji": "💪", "phrase": "conserve strength", "note": "保存体力不消耗｜保存体力"}
+    ],
+    "collocations": ["conserve natural resources", "conserve energy"],
+    "chinese": "节约；保护；保存",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "decline",
+    "word": "decline",
+    "phonetic": "/dɪˈklaɪn/",
+    "pos": "v./n.",
+    "category": "A",
+    "core_state": "从高处向低处移动，数量或质量逐渐减少",
+    "core_emoji": "📉⬇️",
+    "scenes": [
+      {"emoji": "📉", "phrase": "decline in sales", "note": "销售量下降｜销售下降"},
+      {"emoji": "👴", "phrase": "declining health", "note": "健康状况变差｜健康衰退"},
+      {"emoji": "🙅", "phrase": "decline an invitation", "note": "礼貌地拒绝邀请｜婉拒邀请"},
+      {"emoji": "🏭", "phrase": "decline of industry", "note": "工业逐渐衰落｜工业衰退"}
+    ],
+    "collocations": ["decline steadily", "decline sharply", "decline an offer"],
+    "chinese": "下降；衰退；拒绝；衰落",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "diminish",
+    "word": "diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "体积、数量或重要性逐渐变小变少",
+    "core_emoji": "🔍📏",
+    "scenes": [
+      {"emoji": "💊", "phrase": "diminish pain", "note": "疼痛逐渐减轻｜减轻疼痛"},
+      {"emoji": "👥", "phrase": "diminishing population", "note": "人口逐渐减少｜人口减少"},
+      {"emoji": "💰", "phrase": "diminish resources", "note": "资源逐渐耗尽｜减少资源"},
+      {"emoji": "🎯", "phrase": "diminish importance", "note": "重要性降低｜降低重要性"}
+    ],
+    "collocations": ["diminish gradually", "diminish significantly"],
+    "chinese": "减少；缩小；降低；贬低",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "deteriorate",
+    "word": "deteriorate",
+    "phonetic": "/dɪˈtɪəriəreɪt/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "质量或状况逐渐变坏，从好变糟",
+    "core_emoji": "📉🔴",
+    "scenes": [
+      {"emoji": "🏥", "phrase": "health deteriorates", "note": "健康状况恶化｜健康恶化"},
+      {"emoji": "🌤️", "phrase": "weather deteriorates", "note": "天气变坏｜天气恶化"},
+      {"emoji": "🤝", "phrase": "relations deteriorate", "note": "关系变坏｜关系恶化"},
+      {"emoji": "🏚️", "phrase": "building deteriorates", "note": "建筑物破旧｜建筑老化"}
+    ],
+    "collocations": ["deteriorate rapidly", "deteriorate further"],
+    "chinese": "恶化；变坏；退化",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "facilitate",
+    "word": "facilitate",
+    "phonetic": "/fəˈsɪlɪteɪt/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "移除障碍，让事情更容易发生",
+    "core_emoji": "🚀✅",
+    "scenes": [
+      {"emoji": "💬", "phrase": "facilitate communication", "note": "让沟通更顺畅｜促进沟通"},
+      {"emoji": "📚", "phrase": "facilitate learning", "note": "让学习更容易｜促进学习"},
+      {"emoji": "🤝", "phrase": "facilitate cooperation", "note": "让合作更顺利｜促进合作"},
+      {"emoji": "🔄", "phrase": "facilitate the process", "note": "让过程更顺畅｜促进过程"}
+    ],
+    "collocations": ["facilitate development", "facilitate access"],
+    "chinese": "促进；使便利；帮助",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "hinder",
+    "word": "hinder",
+    "phonetic": "/ˈhɪndə/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "在前面设置障碍，阻止前进或发展",
+    "core_emoji": "🚧⛔",
+    "scenes": [
+      {"emoji": "🚧", "phrase": "hinder progress", "note": "阻碍进步｜阻碍进展"},
+      {"emoji": "🏃", "phrase": "hinder movement", "note": "阻碍移动｜妨碍行动"},
+      {"emoji": "📈", "phrase": "hinder development", "note": "阻碍发展｜妨碍发展"},
+      {"emoji": "🎯", "phrase": "hinder achievement", "note": "阻碍达成目标｜妨碍成就"}
+    ],
+    "collocations": ["hinder economic growth", "hinder performance"],
+    "chinese": "阻碍；妨碍；阻止",
+    "tags": ["A", "W"]
+  },
+  {
+    "id": "accelerate",
+    "word": "accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "pos": "v.",
+    "category": "A",
+    "core_state": "速度不断增加，从慢变快",
+    "core_emoji": "🚀📈",
+    "scenes": [
+      {"emoji": "🚗", "phrase": "accelerate the car", "note": "汽车加速｜加速汽车"},
+      {"emoji": "📈", "phrase": "accelerate growth", "note": "加速增长｜加快增长"},
+      {"emoji": "🔄", "phrase": "accelerate the process", "note": "加快进程｜加速过程"},
+      {"emoji": " "
